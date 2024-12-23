@@ -1,5 +1,4 @@
 # SharkCatStickers鲨猫表情包
-<div><p>鲨猫表情包</p></div>
 
 ## SharkCat Stickers
 
