@@ -1,7 +1,5 @@
 # SharkCatStickers鲨猫表情包
 
-## SharkCat Stickers
-
 <div align="center">
 
 ![不懂](https://github.com/KejuLiu/SharkCatStickers/blob/main/Stickers/%E4%B8%8D%E6%87%82.gif) <!-- 不懂 -->
