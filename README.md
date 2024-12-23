@@ -1,9 +1,9 @@
 # SharkCatStickers鲨猫表情包
 
 <div align="center">
-不懂
+<p>不懂</p>
 ![不懂](https://github.com/KejuLiu/SharkCatStickers/blob/main/Stickers/%E4%B8%8D%E6%87%82.gif) <!-- 不懂 -->
-伸懒腰
+<p>伸懒腰</p>
 ![伸懒腰](https://github.com/KejuLiu/SharkCatStickers/blob/main/Stickers/%E4%BC%B8%E6%87%92%E8%85%B0.gif) <!-- 伸懒腰 -->
 勿扰
 ![勿扰](https://github.com/KejuLiu/SharkCatStickers/blob/main/Stickers/%E5%8B%BF%E6%89%B0.gif) <!-- 勿扰 -->
